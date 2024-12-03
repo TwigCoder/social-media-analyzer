@@ -1,4 +1,4 @@
-Welcome to Social Media Analyzer! Check it out ![here](LINK.com).
+Welcome to Social Media Analyzer! Check it out [here](https://social-media-analyzer.streamlit.app).
 
 This project scrapes up to 500 posts from any subreddit and shows the total score, total comments, and an engagement chart,
 
